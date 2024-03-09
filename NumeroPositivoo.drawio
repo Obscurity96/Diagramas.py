@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2024-03-09T01:39:14.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="NKQ_XBrfnYv5g7sxytxd" version="24.0.3" type="device">
+  <diagram name="Página-1" id="XPGdVF3e-MOvPuHnzQjI">
+    <mxGraphModel dx="1242" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-1" target="LaaNfwZrQfXLgj96mlz9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-2" target="LaaNfwZrQfXLgj96mlz9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-2" value="&quot;Solicitar numero&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-4" target="LaaNfwZrQfXLgj96mlz9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-4" target="LaaNfwZrQfXLgj96mlz9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-4" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;¿Número &amp;gt; 0?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#474D0A;" vertex="1" parent="1">
+          <mxGeometry x="352" y="360" width="124" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-6" target="LaaNfwZrQfXLgj96mlz9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-6" value="SI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-8" value="&quot;Mostrar: El numero ingresado es positivo&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="105" y="555" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-10" target="LaaNfwZrQfXLgj96mlz9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-10" value="NO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="558" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-12" target="LaaNfwZrQfXLgj96mlz9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-12" target="LaaNfwZrQfXLgj96mlz9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-12" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;¿Número &amp;lt; 0?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#474D0A;" vertex="1" parent="1">
+          <mxGeometry x="549" y="670" width="138" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-14" target="LaaNfwZrQfXLgj96mlz9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-14" value="SI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-16" target="LaaNfwZrQfXLgj96mlz9-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-16" value="Mostrar: &quot;El numero ingresado es negativo&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="290" y="880" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-18" target="LaaNfwZrQfXLgj96mlz9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-18" value="NO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="890" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LaaNfwZrQfXLgj96mlz9-20" target="LaaNfwZrQfXLgj96mlz9-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-20" value="Mostrar: &quot;El numero ingresado es cero&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="845" y="880" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaaNfwZrQfXLgj96mlz9-25" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
