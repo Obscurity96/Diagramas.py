@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2024-03-09T01:18:04.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="oMrAqeP42CzpsJHM4H1Z" version="24.0.3" type="device">
+  <diagram name="Página-1" id="T0p86XXTfFqzrLSzzkdg">
+    <mxGraphModel dx="2070" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-16" target="l_T10o1ePKdu2nzPRNYN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-2" target="l_T10o1ePKdu2nzPRNYN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-2" target="l_T10o1ePKdu2nzPRNYN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-2" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;¿A &amp;gt; B?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#474D0A;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-8" target="l_T10o1ePKdu2nzPRNYN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-8" value="Si" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-10" value="Mostrar: &quot;A es mayor que B&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-12" target="l_T10o1ePKdu2nzPRNYN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-12" value="NO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-14" target="l_T10o1ePKdu2nzPRNYN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-14" target="l_T10o1ePKdu2nzPRNYN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-14" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 33, 33);&quot;&gt;&quot;¿B &amp;gt; A?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#474D0A;" vertex="1" parent="1">
+          <mxGeometry x="625" y="615" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-1" target="l_T10o1ePKdu2nzPRNYN-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="120" as="sourcePoint" />
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-16" value="&quot;Pedir los valores de A y B&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="335" y="230" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-18" target="l_T10o1ePKdu2nzPRNYN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-18" value="SI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="655" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-20" value="Mostrar: &quot;B es mayor que A&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="840" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-22" target="l_T10o1ePKdu2nzPRNYN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-22" value="NO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="655" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l_T10o1ePKdu2nzPRNYN-24" target="l_T10o1ePKdu2nzPRNYN-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-24" value="&quot;A y B son iguales&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#80FF00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="840" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l_T10o1ePKdu2nzPRNYN-26" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="805" width="150" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
